@@ -4,7 +4,7 @@
 Is designed to provide a seamless booking experience for guests looking to stay at the Hotel. The application caters to both potential and actual guests, offering comprehensive information and functionality to manage their reservations efficiently.  
 You can try it here https://next-hotel-managment-system-demo.vercel.app/
 
-## Technology Stack:
+## Technology Stack
 
 ### Framework
 Next.js: The most popular React meta-framework, handling routing, SSR, data fetching, and even remote state management.
@@ -15,7 +15,7 @@ Supabase: Utilized for data storage and API services. We will leverage the data 
 ### Styling
 Tailwind CSS: A modern way of writing CSS, extremely easy to integrate into Next.js. Most styles and markup will be pre-written in this project.
 
-## User Accessibility:
+## User Accessibility
 
 - Users of the app are potential guests and actual guests.  
 - Guests can get information about each cabin and see booked dates.  
@@ -28,14 +28,14 @@ Tailwind CSS: A modern way of writing CSS, extremely easy to integrate into Next
 
 ![image](https://github.com/user-attachments/assets/b69f037b-7d03-4cf5-a108-e072880d2e40)
 
-## User Authentication:
+## User Authentication
 - Guests need to sign up and log in before they can reserve a cabin and perform any operations.  
 - On sign-up, each guest gets a profile in the database.  
 - Guests can set and update basic data about their profile to make check-in at the hotel faster.  
 
 ![image](https://github.com/user-attachments/assets/5f8ee031-cfff-4392-a880-db22a406efd4)
 
-## Reservation Management:
+## Reservation Management
 - Reservations are not paid online; payments are made at the property upon arrival.  
 - New reservations are set to "unconfirmed" (booked but not yet checked in).  
 
